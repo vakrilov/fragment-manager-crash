@@ -1,0 +1,5 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd">
+    <GridLayout class="p-20" backgroundColor="lightGreen">
+        <Frame defaultPage="main-page" actionBarVisibility="never"></Frame>
+    </GridLayout>
+</Page>

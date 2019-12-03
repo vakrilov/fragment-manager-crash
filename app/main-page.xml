@@ -1,5 +1,5 @@
 <Page xmlns="http://schemas.nativescript.org/tns.xsd">
-    <StackLayout class="p-20">
+    <StackLayout class="p-20" backgroundColor="lightblue">
         <Label text="Tap the button" class="h1 text-center"/>
         <Button text="open modal" tap="onTap" class="-primary"/>
     </StackLayout>

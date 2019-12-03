@@ -1,0 +1,7 @@
+<Page>
+    <StackLayout height="100%">
+        <Label text="Hey there" class="h1 text-center" />
+
+        <Button text="close me" tap="onTap" class="-primary"/>
+    </StackLayout>
+</Page>

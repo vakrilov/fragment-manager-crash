@@ -1,0 +1,9 @@
+<Frame defaultPage="modal/page"></Frame>
+
+<!-- <Frame>    
+    <Page>
+        <StackLayout class="page" height="100%">
+            <Label text="Hey there" textWrap="true" />
+        </StackLayout>
+    </Page>
+</Frame> -->
